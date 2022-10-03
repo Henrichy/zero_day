@@ -1,1 +1,1 @@
-My next README.md file
+get name and information about current kernel

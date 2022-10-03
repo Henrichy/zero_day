@@ -1,1 +1,1 @@
-Returns system information in the structure pointed to by buf
+get name and information about current kernel
